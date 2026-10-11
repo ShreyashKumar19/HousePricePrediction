@@ -1,6 +1,6 @@
 # House Price Prediction
 
-This is my third machine learning project for my online internship.
+This is my third machine learning project.
 
 ## Objective
 
